@@ -1,1 +1,1 @@
-# Matri-Multiplication-using-threads
+# Matrix-Multiplication-using-threads
